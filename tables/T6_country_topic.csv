@@ -1,0 +1,70 @@
+﻿country,n_country,topic,label,k,share,rest_share,lift,z,p,q,significant
+Canada,50,-1,NOISE,7,0.14,0.1658,0.844,-0.48,0.6324295251799643,0.797680597500737,0
+Canada,50,0,problems / making / criteria / governmental,8,0.16,0.3216,0.497,-2.52,0.011766246534002489,0.10320159668861759,0
+Canada,50,2,dual / alternative / landscape / limitations,7,0.14,0.0829,1.688,1.21,0.22667022743984644,0.5534099883649539,0
+Canada,50,3,socio / mental / limitations / achievements,7,0.14,0.0653,2.143,1.64,0.10106480114531102,0.35731404830275304,0
+Canada,50,4,covid / committee / component / psychological,4,0.08,0.0377,2.123,1.2,0.23080204945390204,0.5534099883649539,0
+Canada,50,5,capacity / combination / specialization / conceptual,7,0.14,0.0352,3.98,2.47,0.013461077828950119,0.10320159668861759,0
+Canada,50,6,networks / talent / germany / psychology,3,0.06,0.0653,0.918,-0.15,0.8835404822579462,0.8965337246440924,0
+Canada,50,7,organizational / systematic / highest / german,7,0.14,0.1005,1.393,0.81,0.41831761402301915,0.6792278131951733,0
+United States,41,-1,NOISE,10,0.2439,0.1548,1.576,1.36,0.17341679356910977,0.4668229110594727,0
+United States,41,0,problems / making / criteria / governmental,5,0.122,0.3219,0.379,-2.94,0.003321917833646104,0.03930947076984115,1
+United States,41,1,physical activity / ecosystem / clusters / sports training,3,0.0732,0.1155,0.634,-0.88,0.376998518046574,0.6669973780824002,0
+United States,41,2,dual / alternative / landscape / limitations,7,0.1707,0.0811,2.106,1.65,0.09908546669392293,0.35731404830275304,0
+United States,41,3,socio / mental / limitations / achievements,1,0.0244,0.0786,0.31,-1.5,0.13426071993740285,0.41970989316384455,0
+United States,41,4,covid / committee / component / psychological,3,0.0732,0.0393,1.861,0.9,0.36975264735879154,0.6669973780824002,0
+United States,41,6,networks / talent / germany / psychology,2,0.0488,0.0663,0.735,-0.46,0.645443844274084,0.797680597500737,0
+United States,41,7,organizational / systematic / highest / german,10,0.2439,0.0909,2.683,2.5,0.012382892444468219,0.10320159668861759,0
+Germany,40,-1,NOISE,7,0.175,0.1618,1.082,0.21,0.8309574415823682,0.8918393704611228,0
+Germany,40,0,problems / making / criteria / governmental,10,0.25,0.3088,0.81,-0.79,0.4288060937012239,0.6792278131951733,0
+Germany,40,1,physical activity / ecosystem / clusters / sports training,2,0.05,0.1176,0.425,-1.47,0.14066443531582618,0.41970989316384455,0
+Germany,40,2,dual / alternative / landscape / limitations,1,0.025,0.0956,0.262,-1.79,0.07347583238951194,0.3379888289917549,0
+Germany,40,3,socio / mental / limitations / achievements,6,0.15,0.0662,2.267,1.63,0.10322111288664537,0.35731404830275304,0
+Germany,40,5,capacity / combination / specialization / conceptual,5,0.125,0.0392,3.188,1.89,0.05929547453985062,0.3147221340961302,0
+Germany,40,6,networks / talent / germany / psychology,3,0.075,0.0637,1.177,0.27,0.7888272510835532,0.8918393704611228,0
+Germany,40,7,organizational / systematic / highest / german,6,0.15,0.1005,1.493,0.9,0.3666351792775333,0.6669973780824002,0
+Australia,36,-1,NOISE,5,0.1389,0.165,0.842,-0.42,0.6750075048019308,0.797680597500737,0
+Australia,36,0,problems / making / criteria / governmental,4,0.1111,0.3204,0.347,-2.93,0.003418214849551404,0.03930947076984115,1
+Australia,36,1,physical activity / ecosystem / clusters / sports training,7,0.1944,0.1044,1.863,1.45,0.14598604979611984,0.41970989316384455,0
+Australia,36,2,dual / alternative / landscape / limitations,8,0.2222,0.0777,2.861,2.33,0.019823391117440803,0.13678139871034153,0
+Australia,36,3,socio / mental / limitations / achievements,9,0.25,0.0583,4.292,3.06,0.002245938900482747,0.03930947076984115,1
+Australia,36,5,capacity / combination / specialization / conceptual,1,0.0278,0.0485,0.572,-0.62,0.5328467923309954,0.7353285734167737,0
+Australia,36,6,networks / talent / germany / psychology,1,0.0278,0.068,0.409,-1.08,0.2788068993561852,0.5852979428368761,0
+Australia,36,7,organizational / systematic / highest / german,1,0.0278,0.1117,0.249,-1.9,0.05809027567036407,0.3147221340961302,0
+United Kingdom,35,-1,NOISE,4,0.1143,0.1671,0.684,-0.86,0.38849286947508244,0.6701501998445172,0
+United Kingdom,35,0,problems / making / criteria / governmental,15,0.4286,0.293,1.463,1.6,0.10874775383127266,0.35731404830275304,0
+United Kingdom,35,1,physical activity / ecosystem / clusters / sports training,1,0.0286,0.1186,0.241,-1.96,0.05007620231599108,0.3141143599821259,0
+United Kingdom,35,2,dual / alternative / landscape / limitations,4,0.1143,0.0872,1.311,0.51,0.6087743551697578,0.797680597500737,0
+United Kingdom,35,3,socio / mental / limitations / achievements,2,0.0571,0.0751,0.761,-0.41,0.6820747138049781,0.797680597500737,0
+United Kingdom,35,4,covid / committee / component / psychological,1,0.0286,0.0436,0.656,-0.46,0.6474771429389687,0.797680597500737,0
+United Kingdom,35,5,capacity / combination / specialization / conceptual,1,0.0286,0.0484,0.59,-0.59,0.5577505778503014,0.7546037229739372,0
+United Kingdom,35,6,networks / talent / germany / psychology,3,0.0857,0.063,1.362,0.49,0.6221091183845466,0.797680597500737,0
+United Kingdom,35,7,organizational / systematic / highest / german,4,0.1143,0.1041,1.098,0.19,0.8530637456584653,0.8918393704611228,0
+China,34,-1,NOISE,3,0.0882,0.1691,0.522,-1.35,0.17590428532675784,0.4668229110594727,0
+China,34,0,problems / making / criteria / governmental,13,0.3824,0.2971,1.287,1.01,0.3129918134098233,0.6170410035793659,0
+China,34,1,physical activity / ecosystem / clusters / sports training,11,0.3235,0.0942,3.434,3.16,0.0015655638661904447,0.03930947076984115,1
+China,34,2,dual / alternative / landscape / limitations,2,0.0588,0.0918,0.641,-0.7,0.4837975857091861,0.695459029456955,0
+China,34,4,covid / committee / component / psychological,3,0.0882,0.0386,2.283,1.14,0.25415689283138043,0.5657040517859758,0
+China,34,6,networks / talent / germany / psychology,2,0.0588,0.0652,0.902,-0.15,0.8818744331635753,0.8965337246440924,0
+Russian Federation,28,-1,NOISE,5,0.1786,0.1619,1.103,0.23,0.8202682461098161,0.8918393704611228,0
+Russian Federation,28,0,problems / making / criteria / governmental,16,0.5714,0.2857,2.0,2.96,0.0030960205499590554,0.03930947076984115,1
+Russian Federation,28,1,physical activity / ecosystem / clusters / sports training,3,0.1071,0.1119,0.957,-0.08,0.9377300657520202,0.9377300657520202,0
+Russian Federation,28,2,dual / alternative / landscape / limitations,1,0.0357,0.0929,0.385,-1.19,0.23259260380556035,0.5534099883649539,0
+Russian Federation,28,3,socio / mental / limitations / achievements,1,0.0357,0.0762,0.469,-0.9,0.3668897017302668,0.6669973780824002,0
+Russian Federation,28,4,covid / committee / component / psychological,1,0.0357,0.0429,0.833,-0.19,0.8505830694128724,0.8918393704611228,0
+Russian Federation,28,6,networks / talent / germany / psychology,1,0.0357,0.0667,0.536,-0.72,0.47178819189364596,0.695459029456955,0
+Norway,22,-1,NOISE,4,0.1818,0.162,1.123,0.24,0.8098703708805608,0.8918393704611228,0
+Norway,22,0,problems / making / criteria / governmental,9,0.4091,0.2981,1.372,1.06,0.28840768197759115,0.5852979428368761,0
+Norway,22,1,physical activity / ecosystem / clusters / sports training,1,0.0455,0.115,0.395,-1.17,0.24148467877144641,0.5554147611743268,0
+Norway,22,6,networks / talent / germany / psychology,7,0.3182,0.0516,6.161,3.14,0.00168854528380602,0.03930947076984115,1
+Norway,22,7,organizational / systematic / highest / german,1,0.0455,0.108,0.421,-1.07,0.282575889260134,0.5852979428368761,0
+Spain,18,-1,NOISE,2,0.1111,0.1651,0.673,-0.65,0.5152956636924177,0.7256204243832005,0
+Spain,18,0,problems / making / criteria / governmental,4,0.2222,0.307,0.724,-0.8,0.4245132309603643,0.6792278131951733,0
+Spain,18,1,physical activity / ecosystem / clusters / sports training,5,0.2778,0.1047,2.654,1.83,0.0672706342914946,0.33154812615093765,0
+Spain,18,2,dual / alternative / landscape / limitations,2,0.1111,0.0884,1.257,0.32,0.7524470882055458,0.8653141514363778,0
+Spain,18,6,networks / talent / germany / psychology,2,0.1111,0.0628,1.77,0.71,0.4759590563063858,0.695459029456955,0
+Spain,18,7,organizational / systematic / highest / german,3,0.1667,0.1023,1.629,0.78,0.4331307794288062,0.6792278131951733,0
+Switzerland,13,0,problems / making / criteria / governmental,7,0.5385,0.2966,1.816,1.74,0.08136431209211192,0.35088359589723267,0
+Switzerland,13,1,physical activity / ecosystem / clusters / sports training,1,0.0769,0.1126,0.683,-0.43,0.6648221894508448,0.797680597500737,0
+Switzerland,13,2,dual / alternative / landscape / limitations,2,0.1538,0.0874,1.761,0.73,0.4682208359464426,0.695459029456955,0
+Switzerland,13,3,socio / mental / limitations / achievements,3,0.2308,0.069,3.346,1.61,0.10728214271930803,0.35731404830275304,0

@@ -1,0 +1,96 @@
+﻿tau,sim,concept_a,concept_b,verdict
+0.5,0.5223,basketball,soccer,0
+0.5,0.67,prevention,injury prevention,0
+0.5,0.8701,paralympic games,paralympic sport,1
+0.5,0.5177,commitment,determination,0
+0.5,0.5158,companies,industries,0
+0.5,0.6252,paralympic sport,paralympians,0
+0.5,0.797,canada,canadian,1
+0.5,0.5643,disorders,illness,0
+0.5,0.615,events,sports events,0
+0.5,0.6159,equality,equal,1
+0.5,0.7027,competitive,competitiveness,1
+0.5,0.8765,paralympic,paralympic games,1
+0.5,0.8635,benchmark,benchmarking,1
+0.5,0.6402,national sport,national team,0
+0.5,0.6451,football,soccer,1
+0.5,0.8736,structural equation,structural equation modeling,1
+0.6,0.7293,vulnerability,vulnerable,1
+0.6,0.6271,ecosystem,ecological,0
+0.6,0.6451,football,soccer,1
+0.6,0.6874,lower,fewer,0
+0.6,0.7902,nutrition,nutritional,1
+0.6,0.8635,benchmark,benchmarking,1
+0.6,0.7849,entrepreneurial,entrepreneurship,1
+0.6,0.6127,minimal,minimum,1
+0.6,0.6055,paralympians,parasport,0
+0.6,0.8992,national sport,national sporting,1
+0.6,0.7286,structural,structures,0
+0.6,0.7392,disability,disabled,1
+0.6,0.6675,national sport,national olympic,0
+0.6,0.6182,collegiate,collegiate athletic,0
+0.6,0.797,canada,canadian,1
+0.6,0.7333,ecological,ecology,1
+0.7,0.7202,evident,apparent,1
+0.7,0.7614,olympic,olympic sports,1
+0.7,0.8847,collegiate athletic,collegiate sport,1
+0.7,0.7396,accuracy,accurate,1
+0.7,0.7855,sport development,elite sport development,0
+0.7,0.7286,structural,structures,0
+0.7,0.8487,programs,programmes,1
+0.7,0.7099,governmental,governments,1
+0.7,0.8736,structural equation,structural equation modeling,1
+0.7,0.714,risks,risky,1
+0.7,0.8345,ethical,ethics,1
+0.7,0.7849,entrepreneurial,entrepreneurship,1
+0.7,0.7333,ecological,ecology,1
+0.7,0.8693,performance sport,sport performance,1
+0.7,0.7211,broader,wider,1
+0.7,0.7204,french,france,1
+0.75,0.7902,nutrition,nutritional,1
+0.75,0.7814,statistics,statistical,1
+0.75,0.8702,sociological,sociology,1
+0.75,0.7876,norwegian,norway,1
+0.75,0.8693,performance sport,sport performance,1
+0.75,0.7526,athlete health,athlete mental health,0
+0.75,0.8736,structural equation,structural equation modeling,1
+0.75,0.7545,innovation,innovative,1
+0.75,0.783,brazilian,brazil,1
+0.75,0.8992,national sport,national sporting,1
+0.75,0.7666,national elite,national elite sport,0
+0.75,0.8159,regulation,regulatory,1
+0.75,0.7617,lifelong,lifetime,1
+0.75,0.8701,paralympic games,paralympic sport,1
+0.75,0.7556,collaboration,collaborative,1
+0.75,0.754,sustainable,sustainability,1
+0.8,0.8389,tests,testing,1
+0.8,0.8635,benchmark,benchmarking,1
+0.8,0.8345,ethical,ethics,1
+0.8,0.8947,paralympic,paralympic sport,1
+0.8,0.8702,sociological,sociology,1
+0.8,0.8051,motivation,motivational,1
+0.8,0.8693,performance sport,sport performance,1
+0.8,0.8515,korean,south korean,1
+0.8,0.8992,national sport,national sporting,1
+0.8,0.8501,discourse,discourses,1
+0.8,0.8847,collegiate athletic,collegiate sport,1
+0.8,0.93,commercialisation,commercialization,1
+0.8,0.8498,sponsorship,sponsors,1
+0.8,0.8765,paralympic,paralympic games,1
+0.8,0.8238,narratives,narrative,1
+0.8,0.8465,foucauldian,foucault,1
+0.85,0.8736,structural equation,structural equation modeling,1
+0.85,0.8847,collegiate athletic,collegiate sport,1
+0.85,0.868,athlete performance,athletic performance,1
+0.85,0.8515,korean,south korean,1
+0.85,0.8501,discourse,discourses,1
+0.85,0.8947,paralympic,paralympic sport,1
+0.85,0.8647,organizations,organisations,1
+0.85,0.8765,paralympic,paralympic games,1
+0.85,0.8992,national sport,national sporting,1
+0.85,0.8635,benchmark,benchmarking,1
+0.85,0.93,commercialisation,commercialization,1
+0.85,0.8702,sociological,sociology,1
+0.85,0.8693,performance sport,sport performance,1
+0.85,0.8701,paralympic games,paralympic sport,1
+0.9,0.93,commercialisation,commercialization,1

@@ -1,0 +1,10 @@
+﻿topic,label,n,mean_year,share_late,emergence,decline,direction
+-1,NOISE,73,2021.1,0.6027,-0.0066,-0.0251,STABLE
+0,problems / making / criteria / governmental,136,2019.76,0.4559,-0.1535,0.1715,DECLINING
+1,physical activity / ecosystem / clusters / sports training,50,2021.66,0.74,0.1306,-0.1591,EMERGING
+2,dual / alternative / landscape / limitations,40,2021.8,0.7,0.0906,-0.0991,EMERGING
+3,socio / mental / limitations / achievements,33,2021.97,0.7576,0.1482,-0.1476,EMERGING
+4,covid / committee / component / psychological,19,2020.79,0.5263,-0.0831,0.1219,DECLINING
+5,capacity / combination / specialization / conceptual,21,2020.71,0.6667,0.0573,0.0342,STABLE
+6,networks / talent / germany / psychology,29,2020.79,0.6552,0.0458,-0.0232,STABLE
+7,organizational / systematic / highest / german,47,2021.72,0.7234,0.114,-0.1502,EMERGING
