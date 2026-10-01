@@ -121,42 +121,43 @@ page_break(d)
 h1(d, "Declarations")
 
 h2(d, "Funding")
-para(d, "[To be completed. If the research received no specific grant from any funding agency, "
-        "commercial or not-for-profit sectors, state: 'The authors declare that no funds, "
-        "grants, or other support were received during the preparation of this manuscript.']",
-     indent=False)
+para(d, "The authors declare that no funds, grants, or other support were received during the "
+        "preparation of this manuscript.", indent=False)
 
 h2(d, "Conflict of interest")
-para(d, "[To be completed. Standard declaration: 'The authors declare no potential conflicts of "
-        "interest.']", indent=False)
+para(d, "The authors declare no potential conflicts of interest.", indent=False)
 
 h2(d, "Ethics approval")
-para(d, "[To be completed. Standard declaration for secondary analysis of bibliographic "
-        "records: 'This study analysed bibliographic metadata only. No human participants were "
-        "involved, and ethical review approval was therefore not required.']", indent=False)
+para(d, "This study analysed bibliographic metadata only. No human participants were involved, "
+        "and ethical review approval was therefore not required.", indent=False)
 
-h2(d, "Data availability and code reproducibility")
-para(d, "The bibliographic corpus was retrieved from Scopus under the single structured query "
-        "in Appendix A. Scopus licensing does not permit redistribution of the raw export, so "
-        "the query together with the retrieval date (30 September 2026) is provided instead; "
-        "the 623-record export is not included in the public repository. All derived artefacts "
-        "are released: the analytic corpus JSON, the 1,208-concept inventory with cascade drop "
-        "counts, concept-family assignments and member lists, the manual audit with all 95 "
-        "adjudicated pairs and verdicts, the selected threshold, the concept network with "
-        "centrality statistics and null-model z-scores, topic assignments, the multiplex pillar "
-        "assignment, and all ten result tables. The pipeline comprises nine scripts executing "
-        "end-to-end in approximately 20 minutes with fixed random seeds; every parameter is set "
-        "in a single configuration block per stage.")
+h2(d, "Data availability")
+para(d, "All analysis code, derived data and the manuscript are openly available at "
+        "https://github.com/mahsatorabi/high-performance-sport-concept-network. The repository "
+        "contains the nine-stage pipeline (run_all.py), the frozen Python environment "
+        "(requirements.txt), all ten result tables, all ten figures, the validation and audit "
+        "files underlying the SEMCON threshold decision, and this manuscript. The pipeline runs "
+        "end to end in approximately twenty minutes with fixed random seeds.", indent=False)
+para(d, "The bibliographic records themselves are not redistributed. They were retrieved from "
+        "Scopus under the single structured query recorded in Appendix A on 30 September 2026, "
+        "which returned 623 records; Scopus licensing does not permit redistribution of the raw "
+        "export. The query and retrieval date are sufficient to reproduce the corpus for users "
+        "with institutional Scopus access. No record text (titles, abstracts, author keywords "
+        "or affiliations) appears in the repository.", indent=False)
 
 h2(d, "Author contributions (CRediT)")
-para(d, "[To be completed using the CRediT taxonomy: Conceptualization; Methodology; Software; "
-        "Formal analysis; Investigation; Writing - original draft; Writing - review and "
-        "editing; Visualization.]", indent=False)
+para(d, "All authors contributed equally to this work and are accountable for the content of "
+        "the article. All authors jointly conceived the study, designed the analytical "
+        "framework, conducted the analysis, and drafted and revised the manuscript. No single "
+        "author held exclusive responsibility for any section or any stage of the research.",
+     indent=False)
 
 h2(d, "Acknowledgements")
-para(d, "[To be completed. Not acknowledged: artificial-intelligence tools were used for "
-        "code assistance and for language proofreading; the study design, analysis, "
-        "interpretation and writing are the authors' own.]", indent=False)
+para(d, "The authors gratefully acknowledge the assistance of Grammarly and OpenAI GPT-5, used "
+        "for language editing and to improve grammatical clarity and comprehension of the "
+        "manuscript. The study design, data analysis, interpretation of results, and the "
+        "substantive claims are the work of the authors, who take full responsibility for the "
+        "content of the article.", indent=False)
 
 d.save(DOC)
 print("part7 ok")
